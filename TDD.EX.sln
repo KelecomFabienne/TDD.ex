@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.EX.SSN", "TDD.EX.SSN\TDD.EX.SSN.csproj", "{62AF8939-9F9B-4FB5-A4CA-77982AEC00F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD.EX.SSN.Test", "TDD.EX.SSN.Test\TDD.EX.SSN.Test.csproj", "{D7A94B4F-C757-45A1-B70F-7217768DB747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{62AF8939-9F9B-4FB5-A4CA-77982AEC00F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62AF8939-9F9B-4FB5-A4CA-77982AEC00F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62AF8939-9F9B-4FB5-A4CA-77982AEC00F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A94B4F-C757-45A1-B70F-7217768DB747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A94B4F-C757-45A1-B70F-7217768DB747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A94B4F-C757-45A1-B70F-7217768DB747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A94B4F-C757-45A1-B70F-7217768DB747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

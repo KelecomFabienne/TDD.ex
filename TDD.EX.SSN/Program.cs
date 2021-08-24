@@ -6,7 +6,7 @@ namespace TDD.EX.SSN
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
